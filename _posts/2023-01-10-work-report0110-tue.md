@@ -67,10 +67,10 @@ tags: [Report]
       ![memberService Test](/assets/img/screenshot/230110/memberServiceTest.png)
       + [x] Reservate Repository Test
 
-      ![reservateRepository Test](/assets/img/screenshot/230110/petRepository-Test.png)
+      ![reservateRepository Test](/assets/img/screenshot/230110/petRepository-test.png)
       + [x] Reservate Service Test
 
-      ![petService Test](/assets/img/screenshot/230110/petService-Test.png)
+      ![petService Test](/assets/img/screenshot/230110/petService-test.png)
 
 > 트러블 슈팅
 {: .prompt-danger }
